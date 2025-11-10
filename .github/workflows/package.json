@@ -1,0 +1,13 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "My first project with GitHub Actions CI",
+  "main": "index.js",
+  "scripts": {
+    "lint": "echo 'Linting code...' && exit 0",
+    "test": "echo 'Running tests...' && exit 0",
+    "build": "echo 'Building project...' && exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
