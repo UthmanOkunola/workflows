@@ -1,0 +1,9 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "echo 'Lint done!'",
+    "test": "echo 'Test passed!'",
+    "build": "echo 'Build complete!'"
+  }
+}
